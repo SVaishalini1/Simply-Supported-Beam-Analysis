@@ -51,3 +51,6 @@ Once you run `index.html`, you will be presented with a user-friendly interface 
 3.  **Enter Load Position:** Indicate where the load is applied along the beam's length.
 4.  **View Diagrams:** The application will automatically generate and display the Shear Force Diagram and Bending Moment Diagram based on your inputs.
 5.  **Analyze at a Point:** Use the specific input field to find the shear force and bending moment at any desired point along the beam.
+
+# Created By
+SAMUDRALA VAISHALINI
