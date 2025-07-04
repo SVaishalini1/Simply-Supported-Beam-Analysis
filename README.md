@@ -43,23 +43,11 @@ This web page is built using:
 
 Once you run `index.html`, you will be presented with a user-friendly interface to input your beam parameters.
 
-![Screenshot of the Beam Analysis Web Application](images/screenshot.png)
-*Replace `images/screenshot.png` with the actual path to your image file.*
+![image](https://github.com/user-attachments/assets/7e933d0a-0a6a-41fe-9905-5899e81f79ad)
+
 
 1.  **Enter Load Magnitude:** Input the force applied to the beam in the designated field.
 2.  **Enter Beam Length:** Specify the total length of the beam.
 3.  **Enter Load Position:** Indicate where the load is applied along the beam's length.
 4.  **View Diagrams:** The application will automatically generate and display the Shear Force Diagram and Bending Moment Diagram based on your inputs.
 5.  **Analyze at a Point:** Use the specific input field to find the shear force and bending moment at any desired point along the beam.
-
----
-
-## Contributing
-
-[Information on how others can contribute to the project, if applicable.]
-
----
-
-## License
-
-[Information about the project's license.]
